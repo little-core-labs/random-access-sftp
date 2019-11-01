@@ -19,5 +19,7 @@
     "random-access-storage": "^1.4.0",
     "ssh2": "^0.8.5"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nyc": "^14.1.1"
+  }
 }
